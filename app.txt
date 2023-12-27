@@ -1,7 +1,0 @@
-Algunos comandos básicos para git son: 
-
-git init - para inicializar el repositorio
-
-git add - para agregar a la staging area los cambios
-
-git commit - para realizar el almacenamiento de los cambios en la rama
